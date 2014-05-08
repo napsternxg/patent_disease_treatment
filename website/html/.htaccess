@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^(.*)$ /cgi-bin/gimli/cgi.py/$1 [L]
+RewriteRule ^(.*)$ /cgi-bin/gimli/cgi.py/$1 [L]

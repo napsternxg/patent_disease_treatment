@@ -1,0 +1,77 @@
+{% extends "index.html" %}
+{% block body %}
+<!-- Main component for a primary marketing message or call to action -->
+<link rel="stylesheet" type="text/css" href="./assets/css/DT_bootstrap.css">
+<h2>Username: {{ data['username'] }} | Page: {{ data['page'] }}</h2> 
+<form class="form" role="form" method="POST">
+<input type="hidden" name="next" value="{{ data['next'] }}" />
+{% for item in data['items'] %}
+<div class="row">
+<div class="col-md-12 well">
+<style>
+.i_word{
+  height: 50px;
+  float: left;
+  padding: 10px;
+}
+</style>
+<input type="hidden" name="grant_id" value="{{ item['grant_id'] }}" />
+<table>
+<tr><td>GRANT ID</td><td>{{ item['grant_id'] }}</td></tr>
+<tr><td>TITLE</td><td>
+{% for word in item['title'] %}
+<div class="i_word">
+<div>{{ word[0] }}</div>
+<div class="form-group">
+  <div class="btn-group" data-toggle="buttons">
+  <label class="btn btn-primary">
+  <input type="radio" name="title[{{ item['grant_id'] }}][{{ loop.index0 }}]" value="OTHER" id="option1" {% if word[1] == "OTHER" %}checked="checked"{% endif %}> O
+  </label>
+  <label class="btn btn-primary">
+  <input type="radio" name="title[{{ item['grant_id'] }}][{{ loop.index0 }}]" value="DISEASE" id="option1" {% if word[1] == "DISEASE" %}checked="checked"{% endif %}> D
+  </label>
+  <label class="btn btn-primary">
+  <input type="radio" name="title[{{ item['grant_id'] }}][{{ loop.index0 }}]" value="TREATMENT" id="option1" {% if word[1] == "TREATMENT" %}checked="checked"{% endif %}> T
+  </label>
+  </div>
+</div>
+</div>
+{% endfor %}
+</td></tr>
+<tr><td>ABSTRACT</td><td>
+{% for word in item['abstract'] %}
+<div class="i_word">
+<div>{{ word[0] }}</div>
+<div class="form-group">
+  <div class="btn-group" data-toggle="buttons">
+  <label class="btn btn-primary">
+  <input type="radio" name="abstract[{{ item['grant_id'] }}][{{ loop.index0 }}]" value="OTHER" id="option1" {% if word[1] == "OTHER" %}checked="checked"{% endif %}> O
+  </label>
+  <label class="btn btn-primary">
+  <input type="radio" name="abstract[{{ item['grant_id'] }}][{{ loop.index0 }}]" value="DISEASE" id="option1" {% if word[1] == "DISEASE" %}checked="checked"{% endif %}> D
+  </label>
+  <label class="btn btn-primary">
+  <input type="radio" name="abstract[{{ item['grant_id'] }}][{{ loop.index0 }}]" value="TREATMENT" id="option1" {% if word[1] == "TREATMENT" %}checked="checked"{% endif %}> T
+  </label>
+  </div>
+</div>
+</div>
+{% endfor %}
+</td></tr>
+</table>
+</div>
+</div>
+{% endfor %}
+<div class="row">
+<div class="col-md-12 well">
+  <button type="submit" class="btn btn-default" name="submit" value="done">Submit</button>
+</div>
+</div>
+</form>                        
+{% endblock %}
+{% block footer %}
+{{ super() }}
+<script>
+$('input[type="radio"]:checked').parent('label').addClass('active');
+</script>
+{% endblock %}

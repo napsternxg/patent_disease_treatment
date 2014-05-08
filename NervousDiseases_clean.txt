@@ -1,0 +1,687 @@
+acth-secreting pituitary adenoma
+aids arteritis
+aids dementia complex
+abducens nerve diseases
+abducens nerve injury
+accessory nerve diseases
+acrocallosal syndrome
+acrodynia
+acromegaly
+adie syndrome
+adrenoleukodystrophy
+ageusia
+agnosia
+agraphia
+akathisia
+akinetic mutism
+alcohol amnestic disorder
+alcohol withdrawal delirium
+alcohol withdrawal seizures
+alcohol-induced disorders
+alcoholic neuropathy
+alexander disease
+alexia
+alien hand syndrome
+alstrom syndrome
+alzheimer disease
+amaurosis fugax
+amblyopia
+amnesia
+amyloid neuropathies
+amyotrophic lateral sclerosis
+anencephaly
+angelman syndrome
+anisocoria
+anomia
+anterior spinal artery syndrome
+aphasia
+aphonia
+apraxia
+apraxias
+arachnoid cysts
+arachnoiditis
+argininosuccinic aciduria
+arnold-chiari malformation
+arsenic poisoning
+articulation disorders
+ataxia
+ataxia telangiectasia
+athetosis
+auditory diseases
+auditory perceptual disorders
+autoimmune diseases of the nervous system
+autonomic dysreflexia
+autonomic nervous system diseases
+back pain
+bardet-biedl syndrome
+basal ganglia cerebrovascular disease
+basal ganglia diseases
+basal ganglia hemorrhage
+bell palsy
+blindness
+botulism
+brachial plexus neuritis
+brachial plexus neuropathies
+brain abscess
+brain concussion
+brain damage
+brain death
+brain diseases
+brain edema
+brain hemorrhage
+brain infarction
+brain injuries
+brain injury
+brain ischemia
+brain neoplasms
+brain stem hemorrhage
+brain stem infarctions
+brain stem neoplasms
+brown-sequard syndrome
+bulbar palsy
+bulbo-spinal atrophy
+cadasil
+canavan disease
+carbamoyl-phosphate synthase i deficiency disease
+carotid artery
+carotid artery diseases
+carotid artery injuries
+carotid artery thrombosis
+carotid stenosis
+carotid-cavernous sinus fistula
+carpal tunnel syndrome
+catalepsy
+cataplexy
+catatonia
+causalgia
+cavernous sinus thrombosis
+central cord syndrome
+central nervous system bacterial infections
+central nervous system cysts
+central nervous system diseases
+central nervous system fungal infections
+central nervous system helminthiasis
+central nervous system infections
+central nervous system neoplasms
+central nervous system parasitic infections
+central nervous system protozoal infections
+central nervous system vascular malformations
+central nervous system venous angioma
+central nervous system viral diseases
+cerebellar ataxia
+cerebellar diseases
+cerebellar neoplasms
+cerebral amyloid angiopathy
+cerebral arterial diseases
+cerebral hemorrhage
+cerebral infarction
+cerebral palsy
+cerebral ventricle neoplasms
+cerebrospinal fluid otorrhea
+cerebrospinal fluid rhinorrhea
+cerebrovascular disorders
+cerebrovascular trauma
+cervical rib syndrome
+charcot-marie-tooth disease
+chorea
+chorea gravidarum
+choroid plexus neoplasms
+chronobiology disorders
+citrullinemia
+classical lissencephalies and subcortical band heterotopias
+cluster headache
+cobblestone lissencephaly
+cockayne syndrome
+coffin-lowry syndrome
+cogan syndrome
+colloid cysts
+color vision defects
+coma
+communication disorders
+complex regional pain syndromes
+consciousness disorders
+contrecoup injury
+cranial nerve diseases
+cranial nerve injuries
+cranial nerve neoplasms
+craniocerebral trauma
+creutzfeldt-jakob syndrome
+cri-du-chat syndrome
+cubital tunnel syndrome
+dandy-walker syndrome
+de lange syndrome
+deaf-blind disorders
+deafness
+decerebrate state
+delirium
+dementia
+demyelinating autoimmune diseases
+demyelinating diseases
+dermatomyositis
+diabetic neuropathies
+diffuse axonal injury
+diffuse cerebral sclerosis of schilder
+diffuse neurofibrillary tangles with calcification
+diplopia
+disorders of excessive somnolence
+distal myopathies
+dizziness
+down syndrome
+duane retraction syndrome
+dwarfism
+dysarthria
+dysautonomia
+dysgeusia
+dyskinesia
+dyskinesias
+dyslexia
+dysphonia
+dyssomnias
+dystonia
+dystonia musculorum deformans
+dystonic disorders
+echolalia
+empty sella syndrome
+empyema
+encephalitis
+encephalocele
+encephalomalacia
+encephalomyelitis
+encephalopathy
+eosinophilia-myalgia syndrome
+epidural abscess
+epidural neoplasms
+epilepsia partialis continua
+epilepsies
+epilepsy
+esotropia
+essential tremor
+esthesioneuroblastoma
+exotropia
+fabry disease
+facial hemiatrophy
+facial nerve diseases
+facial nerve injuries
+facial neuralgia
+facial pain
+facial paralysis
+failed back surgery syndrome
+farber lipogranulomatosis
+fasciculation
+fatigue syndrome
+femoral neuropathy
+fibromyalgia
+fragile x syndrome
+friedreich ataxia
+frontotemporal dementia
+frontotemporal lobar degeneration
+fucosidosis
+gait apraxia
+gait ataxia
+gait disorders
+galactosemias
+gangliosidoses
+gangliosidosis
+gaucher disease
+gerstmann syndrome
+gerstmann-straussler-scheinker disease
+giant axonal neuropathy
+giant cell arteritis
+glossopharyngeal nerve diseases
+glycogen storage disease type ii
+glycogen storage disease type iib
+growth hormone-secreting pituitary adenoma
+guillain-barre syndrome
+hallucinations
+hand-arm vibration syndrome
+hartnup disease
+head injuries
+headache
+headache disorders
+hearing disorders
+hearing loss
+heavy metal poisoning
+hemangioma
+hematoma
+hemianopsia
+hemifacial spasm
+hemiplegia
+hepatic encephalopathy
+hepatolenticular degeneration
+hereditary central nervous system demyelinating diseases
+hereditary sensory and autonomic neuropathies
+hereditary sensory and motor neuropathy
+heredodegenerative disorders
+herpes zoster oticus
+high pressure neurological syndrome
+hoarseness
+holoprosencephaly
+homocystinuria
+horner syndrome
+huntington disease
+hydranencephaly
+hydrocephalus
+hyperacusis
+hyperalgesia
+hyperargininemia
+hyperesthesia
+hyperglycinemia
+hyperkinesis
+hyperlysinemias
+hyperpituitarism
+hyperprolactinemia
+hypersomnolence
+hypertensive encephalopathy
+hypesthesia
+hypoglossal nerve diseases
+hypokalemic periodic paralysis
+hypokinesia
+hypopituitarism
+hypotension
+hypothalamic diseases
+hypothalamic neoplasms
+hypoxia
+hypoxia-ischemia
+illusions
+inappropriate adh syndrome
+infarction
+infratentorial neoplasms
+insomnia
+insulin coma
+intracranial aneurysm
+intracranial arterial diseases
+intracranial arteriosclerosis
+intracranial arteriovenous malformations
+intracranial embolism
+intracranial embolism and thrombosis
+intracranial hemorrhage
+intracranial hemorrhages
+intracranial hypertension
+intracranial hypotension
+intracranial thrombosis
+isaacs syndrome
+ischemic attack
+jet lag syndrome
+kearns-sayre syndrome
+kernicterus
+kleine-levin syndrome
+kluver-bucy syndrome
+korsakoff syndrome
+kuru
+labor pain
+lafora disease
+lambert-eaton myasthenic syndrome
+landau-kleffner syndrome
+language development disorders
+language disorders
+lateral medullary syndrome
+lateral sinus thrombosis
+laurence-moon syndrome
+lead poisoning
+learning disorders
+leigh disease
+lesch-nyhan syndrome
+lethargy
+leukodystrophy
+leukoencephalitis
+leukoencephalopathies
+leukoencephalopathy
+leukomalacia
+lewy body disease
+limbic encephalitis
+lissencephaly
+low back pain
+lupus vasculitis
+lyme neuroborreliosis
+lymphocytic choriomeningitis
+lysosomal storage diseases
+melas syndrome
+merrf syndrome
+mptp poisoning
+machado-joseph disease
+malaria
+malformations of cortical development
+manganese poisoning
+maple syrup urine disease
+marchiafava-bignami disease
+median neuropathy
+meige syndrome
+melkersson-rosenthal syndrome
+memory disorders
+meningeal carcinomatosis
+meningeal neoplasms
+meningioma
+meningism
+meningitis
+meningocele
+meningoencephalitis
+meningomyelocele
+menkes kinky hair syndrome
+mental retardation
+mercury poisoning
+metatarsalgia
+mevalonate kinase deficiency
+microcephaly
+migraine disorders
+migraine with aura
+migraine without aura
+miller fisher syndrome
+miosis
+mitochondrial encephalomyopathies
+mitochondrial myopathies
+mobius syndrome
+mononeuropathies
+motor neuron disease
+movement disorders
+moyamoya disease
+mucolipidoses
+mucopolysaccharidosis ii
+multiple sclerosis
+multiple sulfatase deficiency disease
+multiple system atrophy
+muscle cramp
+muscle hypertonia
+muscle hypotonia
+muscle rigidity
+muscle spasticity
+muscle weakness
+muscular atrophy
+muscular diseases
+muscular disorders
+muscular dystrophies
+muscular dystrophy
+mutism
+myasthenia gravis
+myasthenic syndromes
+myelinolysis
+myelitis
+myoclonic cerebellar dyssynergia
+myoclonic epilepsies
+myoclonic epilepsy
+myoclonus
+myokymia
+myopathies
+myopathy
+myositis
+myotonia
+myotonia congenita
+myotonic disorders
+myotonic dystrophy
+narcolepsy
+neck pain
+nelson syndrome
+nerve compression syndromes
+nerve sheath neoplasms
+nervous system autoimmune disease
+nervous system malformations
+nervous system neoplasms
+neural tube defects
+neuralgia
+neurilemmoma
+neuritis
+neuroacanthocytosis
+neuroaspergillosis
+neuroaxonal dystrophies
+neurobehavioral manifestations
+neurocutaneous syndromes
+neurocysticercosis
+neurocytoma
+neurodegenerative diseases
+neurofibroma
+neurofibromatoses
+neurofibromatosis 1
+neurofibromatosis 2
+neurofibrosarcoma
+neurogenic inflammation
+neuroleptic malignant syndrome
+neurologic manifestations
+neuroma
+neuromuscular diseases
+neuromuscular junction diseases
+neuromuscular manifestations
+neuromyelitis optica
+neuronal ceroid-lipofuscinoses
+neuronal migration disorders
+neuroschistosomiasis
+neurosyphilis
+neurotoxicity syndromes
+nevus
+niemann-pick disease
+niemann-pick diseases
+night terrors
+nocturnal myoclonus syndrome
+nocturnal paroxysmal dystonia
+nystagmus
+obesity hypoventilation syndrome
+ocular motility disorders
+oculocerebrorenal syndrome
+oculomotor nerve diseases
+olfaction disorders
+olfactory nerve diseases
+olivopontocerebellar atrophies
+ophthalmoplegia
+opsoclonus-myoclonus syndrome
+optic atrophies
+optic atrophy
+optic disk drusen
+optic nerve diseases
+optic nerve glioma
+optic nerve injuries
+optic nerve neoplasms
+optic neuritis
+optic neuropathy
+orbital myositis
+ornithine carbamoyltransferase deficiency disease
+orthostatic intolerance
+poems syndrome
+pain insensitivity
+pallister-hall syndrome
+pantothenate kinase-associated neurodegeneration
+papilledema
+papilloma
+paralyses
+paralysis
+paraneoplastic cerebellar degeneration
+paraneoplastic polyneuropathy
+paraneoplastic syndromes
+paraparesis
+paraplegia
+parasomnias
+paresis
+paresthesia
+parkinson disease
+parkinsonian disorders
+paroxysmal hemicrania
+pelizaeus-merzbacher disease
+perceptual disorders
+perimeningeal infections
+peripheral nervous system diseases
+peripheral nervous system neoplasms
+periventricular nodular heterotopia
+peroneal neuropathies
+peroxisomal disorders
+persistent vegetative state
+phantom limb
+phenylketonuria
+phenylketonurias
+photophobia
+pick disease of the brain
+pinealoma
+piriformis muscle syndrome
+pituitary acth hypersecretion
+pituitary apoplexy
+pituitary diseases
+pituitary neoplasms
+pneumocephalus
+poliomyelitis
+polymyositis
+polyneuropathies
+polyradiculoneuropathy
+polyradiculopathy
+post-concussion syndrome
+post-dural puncture headache
+post-traumatic headache
+posterior leukoencephalopathy syndrome
+postpoliomyelitis syndrome
+postural orthostatic tachycardia syndrome
+prader-willi syndrome
+presbycusis
+primary dysautonomias
+primary progressive nonfluent aphasia
+prion diseases
+prolactinoma
+prosopagnosia
+pseudobulbar palsy
+pseudorabies
+pseudotumor cerebri
+psychomotor agitation
+psychomotor disorders
+pupil disorders
+pure autonomic failure
+putaminal hemorrhage
+pyomyositis
+pyruvate carboxylase deficiency disease
+pyruvate dehydrogenase complex deficiency disease
+quadriplegia
+rem sleep behavior disorder
+rem sleep parasomnias
+radial neuropathy
+radiculopathy
+reflex sympathetic dystrophy
+refsum disease
+respiratory paralysis
+restless legs syndrome
+rett syndrome
+reye syndrome
+rubinstein-taybi syndrome
+sunct syndrome
+sagittal sinus thrombosis
+sandhoff disease
+sarcopenia
+sciatic neuropathy
+sciatica
+scotoma
+scrapie
+sea-blue histiocyte syndrome
+seizures
+sensation disorders
+septo-optic dysplasia
+shaken baby syndrome
+shy-drager syndrome
+sialic acid storage disease
+sinus pericranii
+sinus thrombosis
+skull fracture
+skull fractures
+sleep apnea
+sleep apnea syndromes
+sleep arousal disorders
+sleep bruxism
+sleep deprivation
+sleep disorders
+sleep initiation and maintenance disorders
+sleep paralysis
+sleep-wake transition disorders
+slit ventricle syndrome
+sneddon syndrome
+somatosensory disorders
+somnambulism
+spasm
+spasms
+spastic paraplegia
+speech disorders
+sphingolipidoses
+spina bifida cystica
+spina bifida occulta
+spinal cord compression
+spinal cord diseases
+spinal cord injuries
+spinal cord ischemia
+spinal cord neoplasms
+spinal cord vascular diseases
+spinal dysraphism
+spinal muscular atrophies of childhood
+spinocerebellar ataxias
+spinocerebellar degenerations
+status epilepticus
+stiff-person syndrome
+strabismus
+striatonigral degeneration
+stupor
+sturge-weber syndrome
+stuttering
+subacute combined degeneration
+subacute sclerosing panencephalitis
+subarachnoid hemorrhage
+subclavian steal syndrome
+subdural effusion
+sulfatidosis
+supranuclear palsy
+supratentorial neoplasms
+susac syndrome
+sweating
+syncope
+synkinesis
+syringomyelia
+tdp-43 proteinopathies
+tabes dorsalis
+tangier disease
+tarlov cysts
+tarsal tunnel syndrome
+taste disorders
+tauopathies
+tay-sachs disease
+tension-type headache
+tetany
+thalamic diseases
+thoracic outlet syndrome
+tibial neuropathy
+tic disorders
+tics
+tinnitus
+tolosa-hunt syndrome
+tonic pupil
+torticollis
+tourette syndrome
+toxoplasmosis
+trauma
+tremor
+trigeminal autonomic cephalalgias
+trigeminal nerve diseases
+trigeminal neuralgia
+trismus
+trochlear nerve diseases
+tuberculoma
+tuberculosis
+tuberous sclerosis
+tyrosinemias
+ulnar nerve compression syndromes
+ulnar neuropathies
+unconsciousness
+unverricht-lundborg syndrome
+urea cycle disorders
+urinary bladder
+usher syndromes
+uveomeningoencephalitic syndrome
+vagus nerve diseases
+vascular headaches
+vasculitis
+vasospasm
+vein of galen malformations
+vertebral artery dissection
+vertebrobasilar insufficiency
+vertigo
+vestibular neuronitis
+vestibulocochlear nerve diseases
+vision disorders
+vocal cord paralysis
+voice disorders
+wagr syndrome
+wasting disease
+waterhouse-friderichsen syndrome
+wernicke encephalopathy
+west nile fever
+williams syndrome
+wolfram syndrome
+zellweger syndrome
+von hippel-lindau disease
